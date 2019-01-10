@@ -1,6 +1,6 @@
 # Tiny Blockchain
 
-As the name of the repo says, a tiny blockchain. This project is aimed to be a help for those wanting to learn the basics of this technology.
+As the name of the repo says, a tiny blockchain. This project is aimed to be a help for those wanting to learn the basics of this technology. **If you want to colaborate, welcome.**
 
 Implementations of a simple blockchain in different languages. In these implementations, there will be an application of a blockchain in a real problem: the transfer of money between two people (a transaction happening in our blockchain). More sophisticated concepts such as consensus algorithm and interoperability between nodes can be implemented in future.
 
