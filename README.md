@@ -1,5 +1,6 @@
-# Tiny-Blockchain
-As the name of the repo says, a tiny blockchain.
+# A Tiny Blockchain
+
+As the name of the repo says, a tiny blockchain. This project is aimed to be a help for those wanting to learn the basics of this technology.
 
 Implementations of a simple blockchain in different languages. In these implementations, there will be an application of a blockchain in a real problem: the transfer of money between two people (a transaction happening in our blockchain). More sophisticated concepts such as consensus algorithm and interoperability between nodes can be implemented in future.
 
@@ -33,6 +34,6 @@ MyTinyBlockchain
 * **Mining a block:** Creating a new block with pending transactions added to the list of registered transactions.
 * **Pending transactions:** Money submissions that have not yet been stored in a mining block must be stored in a queue that contains the transactions to be stored in the next mining of a block.
 
-### Misc
+### ./utils
 
 **Reference link:** https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b
