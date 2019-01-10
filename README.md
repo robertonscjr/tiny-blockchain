@@ -1,4 +1,4 @@
-# A Tiny Blockchain
+# Tiny Blockchain
 
 As the name of the repo says, a tiny blockchain. This project is aimed to be a help for those wanting to learn the basics of this technology.
 
