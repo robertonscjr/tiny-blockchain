@@ -9,7 +9,7 @@ The system should be able to allow some basic operations that anyone can do in a
 
 ```
 MyTinyBlockchain
-1. Send Money
+1. Send money
 2. Show balance
 3. Mining a block
 4. View pending transactions
