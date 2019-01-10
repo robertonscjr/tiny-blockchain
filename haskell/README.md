@@ -1,0 +1,4 @@
+# Execução
+```
+$ ./MyTinyBlockchain
+```
